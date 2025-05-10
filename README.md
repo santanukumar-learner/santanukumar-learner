@@ -7,7 +7,7 @@
 🎓 I'm an aspiring **Data Scientist** and **AI/ML Enthusiast** with a strong interest in solving real-world problems using data-driven approaches.  
 🔐 I'm passionate about **Security & Privacy** in AI systems.  
 📚 Constantly learning and growing in the fields of **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
-🛠️ Programming in **Python**, **C/C++**, **Java**, **SQL**.  
+🛠️ Programming in **Python**, **C**, **SQL**.  
 💡 Exploring **NLP**, **LangChain**, and **Transformer-based models**.  
 🐧 Comfortable with **Linux Environments** and open to collaborative projects.  
 🌱 Currently learning **React.js**, **Node.js**, and modern front-end tech.
